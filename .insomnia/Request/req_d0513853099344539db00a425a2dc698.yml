@@ -1,0 +1,30 @@
+_id: req_d0513853099344539db00a425a2dc698
+type: Request
+parentId: fld_ea3aaf7cf31f445d878830cf38f88494
+modified: 1648379963219
+created: 1648379926528
+url: http://localhost:3000/api/v1/auth/profile
+name: user Profile
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_326485958a2b43f6b9721663767d8203
+  - id: pair_87dc7abfd8bb4002a672e2be45388969
+    name: Authorization
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfdXVpZCI6ImM3ODExMjViLTMzZDQtNDIwNC1iMGFlLTIzMGM2OWZmMmZhMSJ9LCJpYXQiOjE2NDgzNzkwNDksImV4cCI6MTY1MDEwNzA0OX0.6Q2aVze52zqJVaAMDZxnnn-4tLJB85dUgtGER0kKFGA
+    description: ""
+authentication: {}
+metaSortKey: -1648363409582.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

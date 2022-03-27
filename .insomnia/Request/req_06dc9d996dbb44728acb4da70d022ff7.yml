@@ -1,0 +1,30 @@
+_id: req_06dc9d996dbb44728acb4da70d022ff7
+type: Request
+parentId: fld_4453a8aaff5346898b2937512fa05f1f
+modified: 1648384096795
+created: 1648384088507
+url: http://localhost:3000/api/v1/notes
+name: Get Notes
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - id: pair_cf1f8d5976e9445688953ba1315fcfb7
+    name: Authorization
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfdXVpZCI6ImM3ODExMjViLTMzZDQtNDIwNC1iMGFlLTIzMGM2OWZmMmZhMSJ9LCJpYXQiOjE2NDgzNjk1MzQsImV4cCI6MTY1MDA5NzUzNH0.i1rjaZ6LjoG5CB5efIRMdspVL8fkYByx0VDaa5ydNfo
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_9387074c82884ebe905ed3c36c03fe84
+authentication: {}
+metaSortKey: -1648376832624.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

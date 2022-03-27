@@ -1,0 +1,30 @@
+_id: req_ffd33a7f3c034d1cbdcc8d975e37ce87
+type: Request
+parentId: fld_ea3aaf7cf31f445d878830cf38f88494
+modified: 1648381895874
+created: 1648365754072
+url: http://localhost:3000//api/v1/auth/register
+name: user Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email_address":"rsFe4v@test.com",
+    	"password":"1234567890"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_326485958a2b43f6b9721663767d8203
+authentication: {}
+metaSortKey: -1648365754119
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
